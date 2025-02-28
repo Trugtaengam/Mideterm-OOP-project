@@ -1,11 +1,15 @@
 #include <iostream>
 using namespace std;
 
-int main(int argc, char* argv[]){
-    
+class Patient {
 
-    //;-;
+    privatea
+        string name;
+        
 
+}
+
+int main(){
 
     return 0;
 }
